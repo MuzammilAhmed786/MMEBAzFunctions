@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "Adhan": "5:15",
+    "IqamaTime": "5:40",
+    "Active": "true"
+  },
+  {
+    "Id": 2,
+    "Adhan": "1:00",
+    "IqamaTime": "1:30",
+    "Active": "true"
+  },
+  {
+    "Id": 3,
+    "Adhan": "4:30",
+    "IqamaTime": "4:45",
+    "Active": "true"
+  },
+  {
+    "Id": 4,
+    "Adhan": "6:10",
+    "IqamaTime": "6:15",
+    "Active": "true"
+  },
+  {
+    "Id": 5,
+    "Adhan": "8:00",
+    "IqamaTime": "8:15",
+    "Active": "true"
+  },
+  {
+    "Id": 6,
+    "Adhan" :  "12:30",
+    "IqamaTime": "1:50",
+    "Active": "true"
+  }
+]
